@@ -1,0 +1,16 @@
+.env
+
+### reCAPTCHA - 'recap' 
+// Use this site key in the HTML code your site serves to users.
+
+"site key" "6LfMvWcsAAAAANmiHrPQUGiUndFdhnSEVwXlxreE"
+
+//Use this secret key for communication between your site and reCAPTCHA.
+
+"secret key" "6LfMvWcsAAAAAGgnESfEliieSYrKloJ4N5gX2c6W"
+
+### GoogleCloud
+project name "digi-binder"
+project ID "digi-binder"
+project number "950829095009"
+
